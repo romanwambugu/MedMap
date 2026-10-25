@@ -1,9 +1,3 @@
-# Try it Now
-
-## Live Cloudflare Link
-
-[link](https://lady-dakota-assembly-hispanic.trycloudflare.com/)
-
 # MedMap
 
 **Where should the next hospital go, and what should it be?**
